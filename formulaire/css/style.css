@@ -1,0 +1,13 @@
+.message{
+    color: red;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+#sub{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 50px;
+}
